@@ -2,7 +2,7 @@
 Makes the BuyBackBoss API actually useable
 
 # explanation
-(BuyBackBoss)[https://buybackboss.com/] lets you sell phones, etc. to them and they have this really redundant process for choosing how to sell your phone
+[BuyBackBoss](https://buybackboss.com/) lets you sell phones, etc. to them and they have this really redundant process for choosing how to sell your phone
 with no publicly listed API. Let's fix that and make this hopefully as simple as possible.
 
 # todo
