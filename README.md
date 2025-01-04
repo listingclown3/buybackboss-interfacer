@@ -10,7 +10,7 @@ with no publicly listed API. Let's fix that and make this hopefully as simple as
 - function that contacts the API to get a specific price given a specific range of data. This is relevant trust me.
 
 # breakdown
-(click here)[https://docs.google.com/document/d/1JWG1Xoxt-MvKC1-F8d_P5PS7rEmonS5iTjEeu6E58Xw/edit?usp=sharing]
+[click here](https://docs.google.com/document/d/1JWG1Xoxt-MvKC1-F8d_P5PS7rEmonS5iTjEeu6E58Xw/edit?usp=sharing)
 - for the sake of the document I am using a set of example data and response to explain this
 1. send a POST request to the API, with the payload of the specific data about the phone
    - note to self: breakdown the naming scheme
